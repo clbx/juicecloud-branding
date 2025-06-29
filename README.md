@@ -1,2 +1,3 @@
-# juicecloud-branding
-branding for juicecloud
+# branding
+
+JuiceCloud Branding 
